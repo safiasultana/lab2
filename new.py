@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ec9984742e025973915f782adbd965a783af194f
 #main calculator
@@ -16,3 +17,11 @@ res=sub(3,9)
 =======
 >>>>>>> ec9984742e025973915f782adbd965a783af194f
 print(res)
+=======
+
+
+#calculator
+def sub(num1,num2):
+	return (num1-num2)
+res=sub(3,9)
+>>>>>>> 8a37ea728075dad935fa7046737a6cc196be7934
